@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Vijay Kumar",
+      "email": "vijay@email.com"
+    },
+    {
+      "name": "Vijay Kumar",
+      "email": "vijay@email.com",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Radha Kumari",
+      "email": "radha@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Manoj Kumar",
+      "email": "manoj@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Anuj Kumar",
+      "email": "anuj@email.com"
+    }
+  ]
+}
